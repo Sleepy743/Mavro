@@ -152,7 +152,7 @@ Before linking, the launcher shows exactly what the code will do. Codes only wor
 | 🛟 **[Support](https://mavro.pro/support)** | Search common questions, open a **private ticket** (attach a screenshot or log), and follow replies. Only you and Mavro staff can see your tickets. |
 | 🗺️ **[Roadmap](https://mavro.pro/roadmap)** | What's planned, in development, testing and done. It's updated live by the team. |
 | 📜 **[Changelog](https://mavro.pro/changelog)** | Every release, with what's new, improved and fixed. |
-| 👑 **[MAVRO PLUS](https://mavro.pro/plus)** | What Plus includes and what's coming soon. |
+| 👑 **[MAVRO PLUS](https://mavro.pro/plus)** | What Plus includes, prices, your plan, and cancelling. |
 | 🎨 **[Themes & cosmetics](https://mavro.pro/cosmetics)** | Previews of every free theme, and the cosmetics on the way. |
 | 🤝 **[Community](https://mavro.pro/community)** | Look up any player's Mavro profile, join the Discord, and apply to the **creator programme** if you make videos. |
 | 🔎 **Player profiles** | `mavro.pro/u/<name>` shows a player's skin, role, badges and status. |
@@ -190,13 +190,15 @@ Mavro is free, and every feature that affects gameplay stays free for everyone. 
 | Every version, Fabric and Modrinth | ✅ | ✅ |
 | Profiles, servers and performance tools | ✅ | ✅ |
 | 9 themes, colours, backgrounds and layouts | ✅ | ✅ |
-| Purple **PLUS** badge | | ✅ |
-| Rocket symbol designer | | Coming soon |
-| Exclusive Plus themes | | Coming soon |
-| Animated frames and nameplates | | Coming soon |
-| Extra HUD styles (visual only) | | Coming soon |
+| Purple **PLUS** badge and Discord role | | ✅ |
+| Rocket symbol designer (colours, glow, borders, share codes) | | ✅ |
+| Purple Nebula, Galaxy and Aurora themes, plus a theme creator | | ✅ |
+| Animated profile frames and nameplates | | ✅ |
+| Extra HUD styles (visual only) | | Later |
 
-Plus **never** sells capes or in-game advantages. Purchases will be handled by a secure payment provider, so Mavro never sees your card details. See **[mavro.pro/plus](https://mavro.pro/plus)**.
+Plus **never** sells capes or in-game advantages. The new Plus perks arrive in the next launcher update.
+
+**Paying and cancelling:** Plus will be bought on [mavro.pro/plus](https://mavro.pro/plus), never inside the launcher. Payments are handled by **Stripe**, so Mavro never sees your card details. You can cancel any time from the Plus page on the website or in the launcher: you won't be charged again, and Plus stays on until the end of the time you've paid for. Purchases open soon.
 
 ---
 
