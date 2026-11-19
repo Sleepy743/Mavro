@@ -119,11 +119,15 @@ Create support tickets right from the launcher, attach your game log in one clic
   <img src=".github/images/site-home.webp" alt="The mavro.pro home page" width="92%">
 </p>
 
-### Sign in without a password
+### Sign in your way, no password needed
 
-There's no password to remember and nothing to type into the website. Click **Sign in** on mavro.pro and you'll see a short code. Open the launcher, go to **Settings → Accounts → Sign in on mavro.pro**, type the code and press **Approve**. Your browser is signed in within seconds.
+Make a free Mavro account with **Google**, **Microsoft** or your **email**. With email, Mavro sends you a 6-digit code instead of asking for a password. If you already use the launcher, click **Use the Mavro launcher** and approve the code it shows. You can add more ways to sign in any time under **Account → Sign-in methods**.
 
-The code only works once, expires after 10 minutes, and can only be approved from a launcher that's already signed in to your account.
+### Link your Minecraft account
+
+A website account can open support tickets and join the community straight away. When you're ready, click **Link Minecraft** on your account page and type the code into the launcher. Your skin, public profile, Discord roles and MAVRO PLUS come with it, and your tickets and sign-in methods move over too.
+
+Before linking, the launcher shows exactly what the code will do. Codes only work once and expire after 10 minutes.
 
 <table>
 <tr>
@@ -143,7 +147,8 @@ The code only works once, expires after 10 minutes, and can only be approved fro
 | 🏠 **[Home](https://mavro.pro)** | See what Mavro does and get the launcher. |
 | ⬇️ **[Download](https://mavro.pro/download)** | The official installer, the latest version number and what you need to run it. |
 | ✨ **[Features](https://mavro.pro/features)** | A tour of the launcher with real screenshots. |
-| 👤 **[Your account](https://mavro.pro/account)** | Your skin, role and MAVRO PLUS status, whether Discord is linked, and your public profile settings. |
+| 🔑 **[Sign in](https://mavro.pro/signin)** | Create an account or sign in with Google, Microsoft, an email code or the launcher. |
+| 👤 **[Your account](https://mavro.pro/account)** | Your skin, role and MAVRO PLUS status, sign-in methods, linking Minecraft and Discord, and your public profile settings. |
 | 🛟 **[Support](https://mavro.pro/support)** | Search common questions, open a **private ticket** (attach a screenshot or log), and follow replies. Only you and Mavro staff can see your tickets. |
 | 🗺️ **[Roadmap](https://mavro.pro/roadmap)** | What's planned, in development, testing and done. It's updated live by the team. |
 | 📜 **[Changelog](https://mavro.pro/changelog)** | Every release, with what's new, improved and fixed. |
